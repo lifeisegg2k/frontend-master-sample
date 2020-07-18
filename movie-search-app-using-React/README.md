@@ -46,6 +46,8 @@ Note that the development build is not optimized.
 To create a production build, use yarn build.
 
 ```
+![image](https://user-images.githubusercontent.com/18433640/87854601-0f53be80-c94e-11ea-9d0d-6c2715fdb314.png)
+
 
 児童にブラウザが立ち上がる。
 もし、立ち上がらない場合、`http://localhost:3000` へアクセス
