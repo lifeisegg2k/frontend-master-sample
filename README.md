@@ -1,13 +1,14 @@
-# frontend-master-sample
-refer from : [9 Projects you can do to become a Frontend Master in 2020](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+参照元：2020年にフロントエンドマスターになるために実行できる9つのプロジェクト
 
-# 9 Projects you can do to become a Frontend Master in 2020
+# 2020年にフロントエンドマスターになるためにできる9つのプロジェクト
 
 ## Build a movie search app using React (with hooks)
-### What you will learn
-Building this application you will improve your React Skills using the relatively new Hooks API. The example projects make use of React components, many hooks, an external API, and of course some styling via CSS.
 
-### Tech Stack & Features
+### あなたが学ぶこと
+このアプリケーションを構築すると、比較的新しいフックAPIを使用して、React
+Skillsが向上します。サンプルプロジェクトでは、Reactコンポーネント、多くのフック、外部API、そしてもちろんCSSを介したいくつかのスタイリングを利用しています。
+
+### 技術スタックと機能
 - React with Hooks
 - create-react-app
 - JSX
@@ -18,10 +19,10 @@ Building this application you will improve your React Skills using the relativel
 
 ## Build a chat app with Vue
 
-### What you will learn
-Following this tutorial, you will learn how to set up a Vue app from scratch, creating components, handling state, creating route, connecting to a third party service and even handling authentication.
+### あなたが学ぶこと
+このチュートリアルでは、Vueアプリを最初からセットアップする方法、コンポーネントを作成する方法、状態を処理する方法、ルートを作成する方法、サードパーティのサービスに接続する方法、さらには認証を処理する方法について学びます。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Vue
 - Vuex
 - Vue Router
@@ -34,10 +35,10 @@ Following this tutorial, you will learn how to set up a Vue app from scratch, cr
 
 ## Build a beautiful weather app with Angular 8
 
-### What you will learn
-This project will teach you valuable skills such while creating an application from scratch, starting with the design over development all the way to a production-ready deployment.
+### あなたが学ぶこと
+このプロジェクトでは、アプリケーションをゼロから作成するときの開発から、開発から本番環境に対応するデプロイメントまで、貴重なスキルを習得します。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Angular 8
 - Firebase
 - Server-Side Rendering
@@ -51,10 +52,10 @@ This project will teach you valuable skills such while creating an application f
 
 ## Build a to-do app with Svelte
 
-### What you will learn
-This tutorial will show you how to make an app using Svelte 3 from start to finish. It makes use of components, styling and event handlers
+### あなたが学ぶこと
+このチュートリアルでは、Svelte 3を使用してアプリを最初から最後まで作成する方法を説明します。コンポーネント、スタイリング、イベントハンドラーを利用します。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Svelte 3
 - Components
 - Styling via CSS
@@ -65,10 +66,10 @@ This tutorial will show you how to make an app using Svelte 3 from start to fini
 
 ## Build an e-commerce shopping cart with Next.js
 
-### What you will learn
-In this project, you will learn how to set up a Next.js development environment, create new pages and components, fetch data, style, and deploy a next application.
+### あなたが学ぶこと
+このプロジェクトでは、Next.js開発環境をセットアップし、新しいページとコンポーネントを作成し、データをフェッチしてスタイルを設定し、次のアプリケーションをデプロイする方法を学びます。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Next.js
 - Components and Pages
 - Data Fetching
@@ -81,10 +82,10 @@ In this project, you will learn how to set up a Next.js development environment,
 
 ## Build a full-blown multi-language blog website Nuxt.js
 
-### What you will learn
-This example project will teach you how to build a full-blown website using Nuxt.js from the initial setup to the final deployment. It makes use of many of the cool features Nuxt has to offer like pages and components as well as styling with SCSS.
+### あなたが学ぶこと
+このサンプルプロジェクトでは、Nuxt.jsを使用して初期設定から最終展開まで本格的なWebサイトを構築する方法を説明します。Nuxtが提供する、ページやコンポーネントのような優れた機能の多く、およびSCSSによるスタイリングを利用しています。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Nuxt.js
 - Components and Pages
 - Storyblok module
@@ -98,10 +99,10 @@ This example project will teach you how to build a full-blown website using Nuxt
 
 ## Build a Blog with Gatsby
 
-### What you will learn
-In this tutorial, you will learn how to leverage Gatsby to build an outstanding blog that you could well use for writing your own articles while making use of React and GraphQL.
+### あなたが学ぶこと
+このチュートリアルでは、Gatsbyを活用して、ReactとGraphQLを利用しながら独自の記事を書くために使用できる優れたブログを構築する方法を学びます。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Gatsby
 - React
 - GraphQL
@@ -115,10 +116,10 @@ In this tutorial, you will learn how to leverage Gatsby to build an outstanding 
 
 ## Build a Blog with Gridsome
 
-### What you will learn
-This project will teach you how to build a simple blog to get started with Gridsome, GraphQL, and Markdown. It also covers how to deploy the application via Netlify.
+### あなたが学ぶこと
+このプロジェクトでは、Gridsome、GraphQL、Markdownを使い始めるための簡単なブログを作成する方法を説明します。また、Netlifyを介してアプリケーションをデプロイする方法についても説明します。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Gridsome
 - Vue
 - GraphQL
@@ -130,10 +131,11 @@ This project will teach you how to build a simple blog to get started with Grids
 
 ## Build a SoundCloud-like audio player app with Quasar
 
-### What you will learn
-While the other projects focus mainly on web applications this one will show you how to create a mobile app using Vue via the Quasar framework. You should already have a working Cordova setup with android studio / xcode configured. If not there is a link in the tutorial to the quasar website where they show you how to set this up.
+### あなたが学ぶこと
+他のプロジェクトは主にWebアプリケーションに焦点を当てていますが、このプロジェクトでは、Quasarフレームワークを介してVueを使用してモバイルアプリを作成する方法を示します。android studio /
+xcodeが設定されたCordovaセットアップが既に機能しているはずです。ない場合は、チュートリアルにクエーサーのWebサイトへのリンクがあり、これを設定する方法が示されています。
 
-### Tech Stack & Features
+### 技術スタックと機能
 - Quasar
 - Vue
 - Cordova
