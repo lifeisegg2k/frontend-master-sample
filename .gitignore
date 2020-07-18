@@ -1,0 +1,19 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frontend-master-sample/movie-search-app-using-React/hooked/node_modules
+frontend-master-sample/movie-search-app-using-React/hooked/.pnp
+frontend-master-sample/movie-search-app-using-React/hooked/.pnp.js
+# testing
+frontend-master-sample/movie-search-app-using-React/hooked/coverage
+# production
+frontend-master-sample/movie-search-app-using-React/hooked/build
+# misc
+frontend-master-sample/movie-search-app-using-React/hooked/.DS_Store
+frontend-master-sample/movie-search-app-using-React/hooked/.env.local
+frontend-master-sample/movie-search-app-using-React/hooked/.env.development.local
+frontend-master-sample/movie-search-app-using-React/hooked/.env.test.local
+frontend-master-sample/movie-search-app-using-React/hooked/.env.production.local
+frontend-master-sample/movie-search-app-using-React/hooked/npm-debug.log*
+frontend-master-sample/movie-search-app-using-React/hooked/yarn-debug.log*
+frontend-master-sample/movie-search-app-using-React/hooked/yarn-error.log*
