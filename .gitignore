@@ -17,3 +17,25 @@ frontend-master-sample/movie-search-app-using-React/hooked/.env.production.local
 frontend-master-sample/movie-search-app-using-React/hooked/npm-debug.log*
 frontend-master-sample/movie-search-app-using-React/hooked/yarn-debug.log*
 frontend-master-sample/movie-search-app-using-React/hooked/yarn-error.log*
+
+
+
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/.DS_Store
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/node_modules
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/dist
+# local env files
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/.env.local
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/.env.*.local
+# Log files
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/npm-debug.log*
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/yarn-debug.log*
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/yarn-error.log*
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/pnpm-debug.log*
+# Editor directories and files
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/.idea
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/.vscode
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/*.suo
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/*.ntvs*
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/*.njsproj
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/*.sln
+frontend-master-sample/Build-a-chat-app-with-Vue/vue-chatkit/*.sw?
